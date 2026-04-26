@@ -6,7 +6,7 @@
 
 ## 📖 项目简介
 
-**CF SSL Manager** 是一款管理 CloudFlare 域名的 Windows 桌面工具，通过 CloudFlare API 管理你的域名，并使用 **ACME 协议**（Let's Encrypt）自动申请免费 SSL 证书。
+**CF SSL Manager**是一款管理 CloudFlare 域名SSL证书的 Windows 桌面工具，通过CloudFlare API管理您的域名，轻松管理CloudFlare域名的SSL/TLS证书，自动申请免费SSL证书。，通过 CloudFlare API 管理你的域名，并使用 **ACME 协议**（Let's Encrypt）自动申请免费 SSL 证书。
 
 所有敏感数据（API Key、Token）均经过 **AES 加密** 后存入本地 SQLite 数据库，安全可靠。
 
